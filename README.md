@@ -6,6 +6,7 @@ This is a list example
 * Item 2
 
 This is an ordered list
+
 1. Item one
 2. Item two
 3. Item three
